@@ -26,5 +26,8 @@ Esta seção da documentação tem como objetivo fornecer uma descrição detalh
 
 Para executar os testes, utilize o comando abaixo no terminal:
 
-```bash
-npm run test
+```npm run test```
+
+## Resultados Obtidos
+
+Todos os testes foram executados com sucesso, validando a integridade e funcionalidade das funcionalidades de ClassService e ClassController baseadas na abordagem de classes para representar turmas.
