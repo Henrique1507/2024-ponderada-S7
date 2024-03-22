@@ -31,3 +31,5 @@ Para executar os testes, utilize o comando abaixo no terminal:
 ## Resultados Obtidos
 
 Todos os testes foram executados com sucesso, validando a integridade e funcionalidade das funcionalidades de ClassService e ClassController baseadas na abordagem de classes para representar turmas.
+
+<img src='../../../frontend/src/imagens/teste_bem_sucedido.png'>
